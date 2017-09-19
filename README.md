@@ -2,17 +2,16 @@
 Just another repository
 
 TES HELLOW WORLD BOOM
+<<<<<<< HEAD
+
+Tralalalala
+=======
 aaaaaaaaaaaaaaaaa
 baca aku weh !!
 baca aku weh !!
 baca aku weh !!
 baca aku weh !!
 baca aku weh !!
-baca aku weh !!
-baca aku weh !!
-baca aku weh !!
-baca aku weh !!
-baca aku weh !!
 
 
-cobaan doang yang berubah harusnya
+Hapus Beberapa
